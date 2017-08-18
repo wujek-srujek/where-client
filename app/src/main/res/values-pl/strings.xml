@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gdzie</string>
+    <string name="title_activity_where">Gdzie</string>
+
+    <string name="message_error_dialog_map">Wystąpił błąd przy ściąganiu lokalizacji, proszę spróbować później.</string>
+    <string name="message_last_location_dialog_map">Zostanie pokazana ostatnia ściągnięta lokalizacja.</string>
+
+    <string name="map_type_dialog_title">Wybierz typ mapy</string>
+    <string name="map_type_normal">Zwykły</string>
+    <string name="map_type_satellite">Satelitarny</string>
+    <string name="map_type_terrain">Terenowy</string>
+    <string name="map_type_hybrid">Hybrydowy</string>
+
+    <string name="marker_detail_date_time_format">dd.MM.yyyy HH:mm:ss</string>
+    <string name="marker_detail_location">Lokalizacja:</string>
+    <string name="marker_detail_latitude">Szerokość geograficzna: %f°</string>
+    <string name="marker_detail_longitude">Długość geograficzna: %f°</string>
+    <string name="marker_detail_accuracy">Dokładność: %.2fm</string>
+    <string name="marker_detail_accuracy_no_data">Dokładność: brak danych</string>
+    <string name="marker_detail_date_time">Data/czas: %s</string>
+    <string name="marker_detail_time_zone">Strefa czasowa: %s</string>
+    <string name="marker_detail_phone">Ten telefon:</string>
+    <string name="marker_detail_time_difference">Różnica czasu: %s</string>
+    <string name="marker_detail_data_saved">Zapisano: %s temu</string>
+    <string name="marker_detail_elapsed_days">d</string>
+    <string name="marker_detail_elapsed_hours">g</string>
+    <string name="marker_detail_elapsed_minutes">m</string>
+    <string name="marker_detail_elapsed_seconds">s</string>
+</resources>

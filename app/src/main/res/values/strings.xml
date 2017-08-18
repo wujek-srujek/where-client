@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Where</string>
+    <string name="title_activity_where">Where</string>
+
+    <string name="message_error_dialog_map">Error occurred downloading location, please try again later.</string>
+    <string name="message_last_location_dialog_map">The last downloaded location will be shown.</string>
+
+    <string name="map_type_dialog_title">Choose map type</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="map_type_hybrid">Hybrid</string>
+
+    <string name="marker_detail_date_time_format">yyyy-M-d h:mm:ss a</string>
+    <string name="marker_detail_location">Location:</string>
+    <string name="marker_detail_latitude">Latitude: %f°</string>
+    <string name="marker_detail_longitude">Longitude: %f°</string>
+    <string name="marker_detail_accuracy">Accuracy: %.2fm</string>
+    <string name="marker_detail_accuracy_no_data">Accuracy: no data</string>
+    <string name="marker_detail_date_time">Date/time: %s</string>
+    <string name="marker_detail_time_zone">Time zone: %s</string>
+    <string name="marker_detail_phone">This phone:</string>
+    <string name="marker_detail_time_difference">Time difference: %s</string>
+    <string name="marker_detail_data_saved">Saved: %s ago</string>
+    <string name="marker_detail_elapsed_hours">h</string>
+    <string name="marker_detail_elapsed_minutes">m</string>
+    <string name="marker_detail_elapsed_seconds">s</string>
+    <string name="marker_detail_elapsed_days">d</string>
+</resources>

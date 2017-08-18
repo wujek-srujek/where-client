@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MapButton" parent="android:Widget.Material.Button.Small">
+        <item name="android:backgroundTint">@android:color/white</item>
+        <!-- make the buttons' alpha more or less like the zoom controls' -->
+        <item name="android:alpha">0.75</item>
+    </style>
+</resources>
